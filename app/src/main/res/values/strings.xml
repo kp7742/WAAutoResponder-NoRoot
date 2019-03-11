@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WAAutoResponder</string>
+    <string name="bot_status">Bot Status</string>
+    <string name="version">WAAutoResponder v1.0</string>
+</resources>
